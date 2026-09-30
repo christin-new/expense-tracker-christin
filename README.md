@@ -40,8 +40,6 @@ Expense-Tracker/
 
 ## Live Demo
 
-Add your GitHub Pages link here:
-
 https://christin-new.github.io/expense-tracker-christin/
 
 ## GitHub Repository
